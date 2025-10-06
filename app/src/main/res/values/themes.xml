@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Theme.Practica1_moy" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Personaliza colores si quieres -->
+        <item name="colorPrimary">#2E3A59</item>
+        <item name="colorPrimaryDark">#1C253A</item>
+        <item name="colorAccent">#FFDD00</item>
+    </style>
+</resources>
